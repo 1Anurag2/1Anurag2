@@ -10,5 +10,53 @@ Fullstack WebDev / (AI/ML) developer
 * 🚀  I'm currently working on machine learning
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## My Experience in Following Technologies:
+
+### 🌐 Web Development
+| Technology          | Icon                               |
+|---------------------|------------------------------------|
+| **HTML**            | <img src="./icons/HTML.svg" style="width: 30px"> |
+| **CSS**             | <img src="./icons/CSS.svg" style="width: 30px"> |
+| **Bootstrap**       | <img src="./icons/Bootstrap.svg" style="width: 30px"> |
+| **jQuery**          | <img src="./icons/JQuery.svg" style="width: 30px"> |
+| **JavaScript**      | <img src="./icons/JavaScript.svg" style="width: 30px"> |
+| **PHP**             | <img src="./icons/PHP-Dark.svg" style="width: 30px"> |
+| **Django**          | <img src="./icons/Django.svg" style="width: 30px"> |
+| **Node.js**         | <img src="./icons/NodeJS-Dark.svg" style="width: 30px"> |
+| **Express.js**      | <img src="./icons/ExpressJS-Dark.svg" style="width: 30px"> |
+| **React.js**        | <img src="./icons/React-Dark.svg" style="width: 30px"> |
+
+### 🛠️ Programming and Scripting
+| Technology          | Icon                               |
+|---------------------|------------------------------------|
+| **C**               | <img src="./icons/C.svg" style="width: 30px"> |
+| **C++**             | <img src="./icons/CPP.svg" style="width: 30px"> |
+
+### 📊 Data Science and AI/ML
+| Technology          | Icon                               |
+|---------------------|------------------------------------|
+| **Python**          | <img src="./icons/PyCharm-Light.svg" style="width: 30px"> |
+| **NumPy**           | <img src="./icons/numpy.png" style="width: 30px"> |
+| **Pandas**          | <img src="./icons/pandas.png" style="width: 30px"> |
+| **PyTorch**         | <img src="./icons/PyTorch-Dark.svg" style="width: 30px"> |
+| **OpenCV**          | <img src="./icons/OpenCV-Dark.svg" style="width: 30px"> |
+
+### 📦 DevOps and Cloud
+| Technology          | Icon                               |
+|---------------------|------------------------------------|
+| **Docker**          | <img src="./icons/Docker.svg" style="width: 30px"> |
+| **Git**             | <img src="./icons/Git.svg" style="width: 30px"> |
+| **GitHub**          | <img src="./icons/Github-Dark.svg" style="width: 30px"> |
+
+### 🖥️ Embedded Systems
+| Technology          | Icon                               |
+|---------------------|------------------------------------|
+| **Arduino**         | <img src="./icons/Arduino.svg" style="width: 30px"> |
+
+### 🖥️ Operating Systems
+| Technology          | Icon                               |
+|---------------------|------------------------------------|
+| **Linux**           | <img src="./icons/Kali-Dark.svg" style="width: 30px"> |
+| **Ubuntu**          | <img src="./icons/Ubuntu-Dark.svg" style="width: 30px"> |
+| **Window**          | <img src="./icons/Windows-Light.svg" style="width: 30px"> |
+| **Android**          | <img src="./icons/android.svg" style="width: 30px"> |
